@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="generos_dos_filmes">
+        <item>Ação</item>
+        <item>Animação</item>
+        <item>Aventura</item>
+        <item>Documentario</item>
+        <item>Comedia</item>
+        <item>Comedia romantica</item>
+        <item>Drama</item>
+        <item>Policial</item>
+        <item>Porno</item>
+        <item>Romance</item>
+        <item>Suspense</item>
+        <item>Terror</item>
+        <item>Trash</item>
+    </string-array>
+</resources>
